@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #EAF6F6;
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+div {
+  margin: 0;
+}
+
+h1 {
+  margin: 150px 0 5px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.7rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  color: #11999E;
+}
+
+hr{
+  border-width: 7px;
+  border-color: #EAF6F6;
+  border-style: dotted none none;
+  width: 7%;
+  margin: 50px auto;
+}
+
+p{
+  color: #40514E;
+}
+
+.cooking-text{
+    margin: 0 auto 100px auto;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+
+.project-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.food-image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.footer-link {
+  line-height: 2;
+  margin: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.intro{
+  width: 50%;
+  margin: 50px auto;
+
+}
+
+.skill-row {
+  margin: 50px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.first-cloud {
+  position: absolute;
+  top: 250px;
+  left: 10rem;
+}
+
+.second-cloud {
+  position: absolute;
+  top: 100px;
+  right: 10rem;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  margin-left: 0;
+}
+
+.middle-container{
+  background-color: white;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+}
+
+.btn {
+   border-radius: 9px;
+   color: white;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 20px;
+   font-weight: normal;
+   padding: 10px;
+   background-color: #66BFBF;
+   display: inline-block;
+   text-align: center;
+   margin: 30px;
+   text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #EAF6F6;
+  color: black;
+}
